@@ -10,3 +10,7 @@ JAVA - Useful methods from Java.utils*
 ## 2021.06.19
 HTTP - Connectionless
 IPC - Inter Process Communication
+
+## 2021.06.21
+HTTP - Message structure(start-line, header, CRLF, body)
+JAVA - try catch exceptions, and classes

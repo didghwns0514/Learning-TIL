@@ -14,3 +14,6 @@ IPC - Inter Process Communication
 ## 2021.06.21
 HTTP - Message structure(start-line, header, CRLF, body)
 JAVA - try catch exceptions, and classes
+
+## 2021.06.24
+HTTP - GET/POST method

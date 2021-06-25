@@ -17,3 +17,6 @@ JAVA - try catch exceptions, and classes
 
 ## 2021.06.24
 HTTP - GET/POST method
+
+## 2021.06.25
+OS - Semaphore and Mutex

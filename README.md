@@ -23,3 +23,6 @@ HTTP - GET/POST method
 
 ## 2021.06.25
 OS - Semaphore and Mutex
+
+## 2021.06.26
+OS - paging / Segmentation

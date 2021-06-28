@@ -26,3 +26,6 @@ OS - Semaphore and Mutex
 
 ## 2021.06.26
 OS - paging / Segmentation
+
+## 2021.06.28
+OS - memory / paging

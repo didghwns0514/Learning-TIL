@@ -29,3 +29,7 @@ OS - paging / Segmentation
 
 ## 2021.06.28
 OS - memory / paging
+
+## 20201.06.29
+OS - disk files
+HTTP - response message types 200, 300

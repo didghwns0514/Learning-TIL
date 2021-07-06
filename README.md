@@ -37,3 +37,7 @@ HTTP - response message types 200, 300
 ## 2021.07.03
 DATABASE - index
 HTTP - Headers
+
+## 2021.07.06
+DATABASE - transaction
+HTTP - Authentication & cookies

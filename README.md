@@ -37,3 +37,6 @@ HTTP - response message types 200, 300
 ## 2021.07.03
 DATABASE - index
 HTTP - Headers
+
+## 2021.07.07
+OS - transaction and isolation level (link[https://korshika.tistory.com/172])

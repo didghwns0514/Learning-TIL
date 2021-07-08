@@ -44,3 +44,6 @@ HTTP - Authentication & cookies
 
 ## 2021.07.07
 OS - transaction and isolation level (link[https://korshika.tistory.com/172])
+
+## 2021.07.08
+Code Language - Study R for code test

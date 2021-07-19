@@ -49,7 +49,10 @@ OS - transaction and isolation level (link[https://korshika.tistory.com/172])
 Code Language - Study R for code test 
 
 ## 2021.07.12
-Spring_boot - Why is it so popular? (link[https://korshika.tistory.com/174])
+Spring_boot - Why is it so popular? [link](https://korshika.tistory.com/174)
 
 ## 2021.07.13
-Spring_boot - Polymorph (link[https://korshika.tistory.com/176])
+Spring_boot - Polymorph [link](https://korshika.tistory.com/176)
+
+## 2021.07.20
+Spring_boot - SOLID principle for OOP in JAVA [link](https://korshika.tistory.com/177)

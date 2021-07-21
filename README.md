@@ -57,3 +57,6 @@ Spring_boot - Polymorph [link](https://korshika.tistory.com/176)
 ## 2021.07.20
 Spring_boot - SOLID principle for OOP in JAVA [link](https://korshika.tistory.com/177)
 Python - Reviewd python libraries
+
+## 2021.07.21
+Python - Reviewd python libraries

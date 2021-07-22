@@ -60,3 +60,6 @@ Python - Reviewd python libraries
 
 ## 2021.07.21
 Python - Reviewd python libraries
+
+## 2021.07.22
+Network - OSI 7 layers [link](https://korshika.tistory.com/181)

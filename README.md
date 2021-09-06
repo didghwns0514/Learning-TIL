@@ -88,3 +88,7 @@ Network - 3 way handshake [link](https://korshika.tistory.com/182)
 ## 2021.08.28
 
 Regular expression in python revised
+
+## 2021.09.06
+
+PS solving - revision (Rate 3 problems)

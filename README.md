@@ -96,3 +96,7 @@ PS solving - revision (Rate 3 problems)
 ## 2021.09.11
 
 PS solving - Kakao & Line coding test
+
+## 2021.09.12
+
+PS solving - Naver Webtoon coding test

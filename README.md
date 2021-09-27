@@ -100,3 +100,7 @@ PS solving - Kakao & Line coding test
 ## 2021.09.12
 
 PS solving - Naver Webtoon coding test
+
+## 2021.09.27
+
+Github update and legacy clean up

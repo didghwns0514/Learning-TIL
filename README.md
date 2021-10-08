@@ -104,3 +104,7 @@ PS solving - Naver Webtoon coding test
 ## 2021.09.27
 
 Github update and legacy clean up
+
+## 2021.10.08
+
+WAS and Web Servers in Java Spring - blog

@@ -116,3 +116,7 @@ PS Naver programmers
 ## 2022.03.02
 
 PS Kakao
+
+## NCS
+
+Banking - review

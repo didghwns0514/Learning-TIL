@@ -120,3 +120,7 @@ PS Kakao
 ## NCS
 
 Banking - review
+
+## Programmers - 게임회사
+
+PS 3문제

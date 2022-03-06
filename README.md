@@ -124,3 +124,6 @@ Banking - review
 ## Programmers - 게임회사
 
 PS 3문제
+
+## CS 공부
+- Network / OS

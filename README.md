@@ -126,4 +126,9 @@ Banking - review
 PS 3문제
 
 ## CS 공부
-- Network / OS
+
+Network / OS
+
+## 면접 공부
+
+Network / OS

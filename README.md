@@ -132,3 +132,7 @@ Network / OS
 ## 면접 공부
 
 Network / OS
+
+## 면접 공부2
+
+Network / OS; Blog 정리
